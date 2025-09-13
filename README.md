@@ -8,7 +8,8 @@ A project to select a machine learning model that can predict the risk of credit
 ### Python was used as the primary coding language.  
 **Visualization:** Matplotlib and Seaborn  
 **Data Storage/Structures:** Pandas and NumPy  
-**Data Transformation and Feature Selection:** sklearn, scipy  
+**Data Transformation and Feature Selection:** sklearn (encoders, transformers, and metrics), scipy  
+**Models:** sklearn (SVC, RandomForestClassifier, LinearRegressor, K-NearestNeighbors, GridSearch, RandomSearch)  
 
 ## Methods:  
 **Data Visualization:** I plotted data using bar charts, kernel density plots, and heatmaps to check for distributions, data leakage, and correlation to the target.  
