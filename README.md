@@ -20,7 +20,7 @@ A project to select a machine learning model that can predict the risk of credit
 ## Results:  
 I found that a **Random Forest Classifier** provided the best results with the least effort and complexity. The parameters I found for the best model were:  
 **criterion:** entropy  
-**max_features:** None
-**n_estimators:** 200
-**class_weights:** random_subsample
+**max_features:** None  
+**n_estimators:** 200  
+**class_weights:** random_subsample  
 **Others:** Defaults
